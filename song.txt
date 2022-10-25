@@ -2,3 +2,6 @@ Roses are blue
 Sky is red
 Everything is mixed 
 Cause you are dead
+
+2 more lines are added
+to check out the git Gui
